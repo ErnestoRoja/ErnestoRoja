@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.shopify.com/s/files/1/0107/8407/9938/collections/banner-stars-only_1200x1200.gif?v=1581904664)](https://rishavchanda.io)
+![banner-stars-only_1200x1200](https://user-images.githubusercontent.com/92885727/212216281-fe950504-e5eb-4378-8ea2-5419fbc3a459.gif)
 <h1 align="center">Hi 👋, I'm Ernesto and welcome to my GitHub!</h1>
 <h3 align="center">A growing computer science student at the University of Florida.</h3>
 
