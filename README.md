@@ -6,7 +6,7 @@
 
 - 📈 I’m currently working on expanding my project [repository.](https://github.com/ErnestoRoja?tab=repositories)
 
-- 💼 Part-time backend software engineer at [Dun & Bradstreet](https://www.linkedin.com/company/dun-&-bradstreet/)!
+- 💼 Back-end software engineer at [Dun & Bradstreet](https://www.linkedin.com/company/dun-&-bradstreet/)!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
